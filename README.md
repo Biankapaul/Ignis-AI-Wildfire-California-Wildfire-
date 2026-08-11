@@ -6,3 +6,5 @@ An ML pipeline to predict California wildfire risk using satellite imagery, weat
 **Tech:** Python, XGBoost, Random Forest, Neural Networks, Geopandas, Scikit-learn
 
 🔗 [Original Repo](https://github.com/fardaevm/Ignis-AI-Wildfire) | [Medium Article](https://medium.com/@paulbianka/this-article-was-co-authored-with-mukhammadali-fardaev-umair-habib-and-austin-lee-068725b38582)
+
+ML pipeline predicting California wildfire risk using XGBoost and geospatial data
